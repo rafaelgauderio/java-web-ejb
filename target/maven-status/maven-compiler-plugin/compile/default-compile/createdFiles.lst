@@ -1,0 +1,4 @@
+br\resources\JakartaEE10Resource.class
+br\ejb\EjbHelloDeluca.class
+br\JakartaRestConfiguration.class
+br\jsf\JsfSaudation.class
